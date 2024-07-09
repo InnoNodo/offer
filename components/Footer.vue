@@ -20,12 +20,8 @@ export default defineComponent({
 <style scoped>
 .footer {
   display: flex;
-  position: relative;
-  bottom: 0;
-  align-content: end;
+  align-content: center;
   justify-content: center;
-  font-size: 20px;
-  padding: 10px;
-  background-color: #f1f1f1;
+  bottom: auto;
 }
 </style>

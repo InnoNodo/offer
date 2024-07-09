@@ -8,9 +8,9 @@ export default defineComponent({
 </script>
 
 <template>
-    <div class="title">
-      Welcome to the Main Page
-    </div>
+<!--    <div class="title">-->
+<!--      Welcome to the Main Page-->
+<!--    </div>-->
 </template>
 
 <style scoped>
